@@ -1,0 +1,17 @@
+
+# macOS
+.DS_Store
+
+# VS Code
+.vscode/
+
+# Debug files
+*.dSYM/
+
+# Compiled programs
+*.o
+*.out
+/main
+/main[0-9]
+/main[0-9][0-9]
+/heart
